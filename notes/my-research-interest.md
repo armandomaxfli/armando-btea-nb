@@ -22,7 +22,7 @@ blast\
 
 here is how  you _might_ be able to add a local image file 
 
-![picture-desert](./desktop/armando-btea-nb/img/Desert.jpg/)
+![picture-desert](./img/dinoflagelado.jpg/)
 
 hubo un cambio
 
